@@ -1,8 +1,8 @@
 # CloudString – Módulo CI/CD y Control de Calidad
 
 #Universidad Tecnológica Nacional (UTN)
-#Asignatura:# Organización Empresarial 
-#Proyecto:# Trabajo Práctico Integrador (TPI)
+#Asignatura: Organización Empresarial 
+#Proyecto: Trabajo Práctico Integrador (TPI)
 
 -----
 
